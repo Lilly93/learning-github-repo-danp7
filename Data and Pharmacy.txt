@@ -11,3 +11,5 @@ The types of data that a pharmacist reads
 - Drug formularies
 
 - Pharmacy periodicals
+
+- Don't forget drug sales figures
